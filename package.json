@@ -1,0 +1,11 @@
+{
+  "name": "slide-webapp",
+  "version": "0.0.1",
+  "description": "A NodeJS webserver to run inside a docker container for Slide's Webapp",
+  "main": "index.js",
+  "author": "sean@seanmcgary.com",
+  "license": "MIT",
+  "dependencies": {
+      "express": "*"
+  }
+}
